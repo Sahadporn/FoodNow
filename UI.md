@@ -3,6 +3,12 @@
 ![1-1](https://github.com/Sahadporn/FoodNow/blob/main/UI/1-1.jpg)
 1-1
 
+![1-1-2](https://github.com/Sahadporn/FoodNow/blob/main/UI/1-1-2.jpg)
+1-1-2
+
+![1-1-3](https://github.com/Sahadporn/FoodNow/blob/main/UI/1-1-3.jpg)
+1-1-3
+
 ![1-2](https://github.com/Sahadporn/FoodNow/blob/main/UI/1-2.jpg)
 1-2
 
